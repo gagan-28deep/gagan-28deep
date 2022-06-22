@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![Gagandeep Singh Stats](https://github-readme-stats.vercel.app/api?username=gagan-28deep&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-28deep)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
