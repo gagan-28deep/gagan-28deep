@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://javascript.plainenglish.io/why-using-the-mern-stack-is-a-popular-start-up-app-idea-87a4a0e8ebbf)](https://github.com/gagan-28deep)
+[![MasterHead](https://miro.medium.com/max/1400/0*GKIyAWHbKbANm7d9.png)](https://github.com/gagan-28deep)
 
 ![Gagandeep Singh Stats](https://github-readme-stats.vercel.app/api?username=gagan-28deep&show_icons=true&theme=radical)
 
