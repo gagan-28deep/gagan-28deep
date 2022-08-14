@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Web development. Currently learning front-end technologies  
+🌱 I’m currently learning Web development. Currently learning back-end technology
 
 [![MasterHead](https://miro.medium.com/max/1400/0*GKIyAWHbKbANm7d9.png)](https://github.com/gagan-28deep)
 
